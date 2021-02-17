@@ -1,5 +1,5 @@
 {
-	"chat.type.text": "<%s> %s",
+	"chat.type.text": "%s: %s",
   "multiplayer.player.joined": "%s connected",
   "multiplayer.player.joined.renamed": "%s (formerly known as %s) connected",
   "multiplayer.player.left": "%s disconnected"

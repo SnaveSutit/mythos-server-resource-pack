@@ -1,1 +1,21 @@
-{"prefix:owner": "\uf000", "prefix:moderator": "\uf001", "prefix:dev": "\uf002", "prefix:builder": "\uf003", "prefix:vip": "\uf004", "prefix:patron": "\uf005", "prefix:legend": "\uf006", "prefix:veteran": "\uf007", "prefix:member_plus": "\uf008", "prefix:member": "\uf009"}
+{
+    "guidebook.page0_a": "\uf000",
+    "guidebook.page0_b": "\uf001",
+    "guidebook.page1_a": "\uf002",
+    "guidebook.page1_b": "\uf003",
+    "icons.mythos": "\uf004",
+    "icons.mythos_title": "\uf005",
+    "icons.mythos_banner": "\uf006",
+    "icons.fade": "\uf007",
+    "prefix.owner": "\uf008",
+    "prefix.admin": "\uf009",
+    "prefix.moderator": "\uf00a",
+    "prefix.dev": "\uf00b",
+    "prefix.builder": "\uf00c",
+    "prefix.vip": "\uf00d",
+    "prefix.patron": "\uf00e",
+    "prefix.legend": "\uf00f",
+    "prefix.veteran": "\uf010",
+    "prefix.member_plus": "\uf011",
+    "prefix.member": "\uf012"
+}

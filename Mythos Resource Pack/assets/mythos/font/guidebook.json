@@ -1,0 +1,44 @@
+{
+    "providers": [
+        {
+            "name": "guidebook.page0_a",
+            "file": "mythos:font/guidebook/page0_a.png",
+            "ascent": 36,
+            "height": 256,
+            "type": "bitmap",
+            "chars": [
+                "\uf000"
+            ]
+        },
+        {
+            "name": "guidebook.page0_b",
+            "file": "mythos:font/guidebook/page0_b.png",
+            "ascent": 45,
+            "height": 256,
+            "type": "bitmap",
+            "chars": [
+                "\uf001"
+            ]
+        },
+        {
+            "name": "guidebook.page1_a",
+            "file": "mythos:font/guidebook/page1_a.png",
+            "ascent": 36,
+            "height": 256,
+            "type": "bitmap",
+            "chars": [
+                "\uf002"
+            ]
+        },
+        {
+            "name": "guidebook.page1_b",
+            "file": "mythos:font/guidebook/page1_b.png",
+            "ascent": 45,
+            "height": 256,
+            "type": "bitmap",
+            "chars": [
+                "\uf003"
+            ]
+        }
+    ]
+}

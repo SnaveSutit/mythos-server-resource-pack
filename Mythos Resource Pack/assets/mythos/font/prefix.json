@@ -1,1 +1,114 @@
-{"providers": [{"name": "prefix:owner", "file": "mythos:font/prefixes/owner.png", "ascent": 7, "height": 7, "type": "bitmap", "chars": ["\uf000"]}, {"name": "prefix:moderator", "file": "mythos:font/prefixes/moderator.png", "ascent": 7, "height": 7, "type": "bitmap", "chars": ["\uf001"]}, {"name": "prefix:dev", "file": "mythos:font/prefixes/dev.png", "ascent": 7, "height": 7, "type": "bitmap", "chars": ["\uf002"]}, {"name": "prefix:builder", "file": "mythos:font/prefixes/builder.png", "ascent": 7, "height": 7, "type": "bitmap", "chars": ["\uf003"]}, {"name": "prefix:vip", "file": "mythos:font/prefixes/vip.png", "ascent": 7, "height": 7, "type": "bitmap", "chars": ["\uf004"]}, {"name": "prefix:patron", "file": "mythos:font/prefixes/patron.png", "ascent": 7, "height": 7, "type": "bitmap", "chars": ["\uf005"]}, {"name": "prefix:legend", "file": "mythos:font/prefixes/legend.png", "ascent": 7, "height": 7, "type": "bitmap", "chars": ["\uf006"]}, {"name": "prefix:veteran", "file": "mythos:font/prefixes/veteran.png", "ascent": 7, "height": 7, "type": "bitmap", "chars": ["\uf007"]}, {"name": "prefix:member_plus", "file": "mythos:font/prefixes/member_plus.png", "ascent": 7, "height": 7, "type": "bitmap", "chars": ["\uf008"]}, {"name": "prefix:member", "file": "mythos:font/prefixes/member.png", "ascent": 7, "height": 7, "type": "bitmap", "chars": ["\uf009"]}]}
+{
+    "providers": [
+        {
+            "name": "prefix.owner",
+            "file": "mythos:font/prefixes/owner.png",
+            "ascent": 7,
+            "height": 7,
+            "type": "bitmap",
+            "chars": [
+                "\uf008"
+            ]
+        },
+        {
+            "name": "prefix.admin",
+            "file": "mythos:font/prefixes/admin.png",
+            "ascent": 7,
+            "height": 7,
+            "type": "bitmap",
+            "chars": [
+                "\uf009"
+            ]
+        },
+        {
+            "name": "prefix.moderator",
+            "file": "mythos:font/prefixes/moderator.png",
+            "ascent": 7,
+            "height": 7,
+            "type": "bitmap",
+            "chars": [
+                "\uf00a"
+            ]
+        },
+        {
+            "name": "prefix.dev",
+            "file": "mythos:font/prefixes/dev.png",
+            "ascent": 7,
+            "height": 7,
+            "type": "bitmap",
+            "chars": [
+                "\uf00b"
+            ]
+        },
+        {
+            "name": "prefix.builder",
+            "file": "mythos:font/prefixes/builder.png",
+            "ascent": 7,
+            "height": 7,
+            "type": "bitmap",
+            "chars": [
+                "\uf00c"
+            ]
+        },
+        {
+            "name": "prefix.vip",
+            "file": "mythos:font/prefixes/vip.png",
+            "ascent": 7,
+            "height": 7,
+            "type": "bitmap",
+            "chars": [
+                "\uf00d"
+            ]
+        },
+        {
+            "name": "prefix.patron",
+            "file": "mythos:font/prefixes/patron.png",
+            "ascent": 7,
+            "height": 7,
+            "type": "bitmap",
+            "chars": [
+                "\uf00e"
+            ]
+        },
+        {
+            "name": "prefix.legend",
+            "file": "mythos:font/prefixes/legend.png",
+            "ascent": 7,
+            "height": 7,
+            "type": "bitmap",
+            "chars": [
+                "\uf00f"
+            ]
+        },
+        {
+            "name": "prefix.veteran",
+            "file": "mythos:font/prefixes/veteran.png",
+            "ascent": 7,
+            "height": 7,
+            "type": "bitmap",
+            "chars": [
+                "\uf010"
+            ]
+        },
+        {
+            "name": "prefix.member_plus",
+            "file": "mythos:font/prefixes/member_plus.png",
+            "ascent": 7,
+            "height": 7,
+            "type": "bitmap",
+            "chars": [
+                "\uf011"
+            ]
+        },
+        {
+            "name": "prefix.member",
+            "file": "mythos:font/prefixes/member.png",
+            "ascent": 7,
+            "height": 7,
+            "type": "bitmap",
+            "chars": [
+                "\uf012"
+            ]
+        }
+    ]
+}

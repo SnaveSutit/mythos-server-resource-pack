@@ -1,0 +1,12 @@
+{
+	"lodestone_link.charge_up": {
+		"sounds": [
+			"mythos:lodestone_links/charge_up"
+		]
+	},
+	"lodestone_link.transport": {
+		"sounds": [
+			"mythos:lodestone_links/transport"
+		]
+	}
+}

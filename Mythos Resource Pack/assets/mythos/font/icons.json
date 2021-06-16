@@ -1,0 +1,44 @@
+{
+    "providers": [
+        {
+            "name": "icons.mythos",
+            "file": "mythos:font/server/mythos.png",
+            "ascent": 6,
+            "height": 14,
+            "type": "bitmap",
+            "chars": [
+                "\uf004"
+            ]
+        },
+        {
+            "name": "icons.mythos_title",
+            "file": "mythos:font/server/mythos_title.png",
+            "ascent": 64,
+            "height": 128,
+            "type": "bitmap",
+            "chars": [
+                "\uf005"
+            ]
+        },
+        {
+            "name": "icons.mythos_banner",
+            "file": "mythos:font/server/mythos_banner.png",
+            "ascent": 14,
+            "height": 32,
+            "type": "bitmap",
+            "chars": [
+                "\uf006"
+            ]
+        },
+        {
+            "name": "icons.fade",
+            "file": "mythos:font/server/black.png",
+            "ascent": 512,
+            "height": 1024,
+            "type": "bitmap",
+            "chars": [
+                "\uf007"
+            ]
+        }
+    ]
+}
